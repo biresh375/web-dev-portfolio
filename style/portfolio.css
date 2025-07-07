@@ -59,6 +59,10 @@ nav ul li{
 ul li a{
     text-decoration: none;
 }
+.header-image{
+    height: 676px;
+    width: 585px;
+}
 
 /* header style */
 .banner{
